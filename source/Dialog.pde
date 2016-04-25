@@ -1,0 +1,11 @@
+class Dialog {
+  
+
+  
+  public Dialog () {
+    
+    
+  }
+  
+  
+}

@@ -1,0 +1,11 @@
+--prestart area 
+(red tiles is quit)
+
+--every section has 
+
+	   -
+	   - 
+           - 
+village ----
+--village is start area 
+--area to quit game
